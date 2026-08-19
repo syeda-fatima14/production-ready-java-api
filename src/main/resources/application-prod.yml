@@ -19,4 +19,4 @@ server:
     enabled: true
 
 application:
-  api-key: 'f359105c-56b4-4268-bf23-c6ba706cfe86'
+  api-key: ${API_KEY}
